@@ -1,2 +1,3 @@
 # aws-eks
-EKS  on AWS using terraform
+
+EKS on AWS using terraform and Kubernetes manifests.
